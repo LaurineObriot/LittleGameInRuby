@@ -26,3 +26,6 @@ Pour utiliser ce code, il faut télécharger les librairies :
   - Colorize
   - Win-Sound (windows)
   - Sounder (Mac) /!\ Ne fonctionne pas encore /!\
+  
+  <img src="https://github.com/LaurineObriot/LittleGameInRuby/blob/master/screenshots/donjons11.PNG">
+  <img src="https://github.com/LaurineObriot/LittleGameInRuby/blob/master/screenshots/donjon3.PNG">
