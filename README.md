@@ -2,6 +2,8 @@
 
 Ce projet a été réalisé dans le cadre d'un exercice sur 2 semaines à l'école ADA Tech School, par https://github.com/FlorianBouteille, https://github.com/Marin3B3rry, et moi-même.
 
+Lien du précédent dépot : https://github.com/adatechschool/LesMarsoinsFantastiques .
+
 Le but de ce projet est de créer un petit jeu en Ruby.
 
 Ce jeu est en ligne de commande.
